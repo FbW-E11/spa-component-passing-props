@@ -1,4 +1,6 @@
+# spa-component with passing props
 
+## Instructions
 ### 1. create a new folder named components inside the src folder.
 ---
 ### 2.  Create a new react component called UserProfileCard inside the components folder.
