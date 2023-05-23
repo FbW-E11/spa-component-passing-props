@@ -1,4 +1,4 @@
-# spa-component with passing props
+# React component with passing props
 
 ## Instructions
 ### 1. create a new folder named components inside the src folder.
